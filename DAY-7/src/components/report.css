@@ -1,0 +1,49 @@
+.App {
+    text-align: center;
+    /* margin-top: 20px; */
+  }
+  
+  .App h1 {
+    margin-bottom: 20px;
+  }
+  
+  .inventory-list {
+    margin-top: 20px;
+  }
+  
+  .inventory-list h2 {
+    margin-bottom: 10px;
+  }
+  
+  .inventory-list table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+  }
+  
+  .inventory-list th,
+  .inventory-list td {
+    border: 1px solid #ccc;
+    padding: 5px;
+  }
+  
+  .inventory-list th {
+    background-color: #f2f2f2;
+  }
+  
+  .inventory-list .add-item {
+    margin-top: 20px;
+  }
+  
+  .inventory-list .add-item h3 {
+    margin-bottom: 10px;
+  }
+  
+  .inventory-list .add-item input {
+    margin-right: 5px;
+  }
+  
+  .inventory-list .add-item button {
+    margin-top: 5px;
+  }
+  
